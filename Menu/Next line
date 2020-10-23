@@ -1,0 +1,4 @@
+menu.add_check_box("Enable gradient line")
+menu.next_line()
+menu.add_color_picker("Color 1")
+menu.add_color_picker("Color 2")

@@ -1,0 +1,5 @@
+local function draw()
+   render.create_font("Verdana", 12, 600, true, true, true)
+end
+
+client.add_callback("on_paint", draw)

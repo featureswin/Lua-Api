@@ -1,0 +1,1 @@
+local curtime_float = globals.get_curtime()

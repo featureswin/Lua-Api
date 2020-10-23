@@ -1,0 +1,1 @@
+local realtime_float = globals.get_realtime()

@@ -1,0 +1,4 @@
+-- unclosable menu
+if not menu.get_visible() then
+    menu.set_visible(true)
+end

@@ -1,0 +1,1 @@
+local max_clients = globals.get_maxclients()

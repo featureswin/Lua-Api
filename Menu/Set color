@@ -1,0 +1,1 @@
+menu.set_color("Player.fake_chams_color", color.new(255, 255, 255, 50))

@@ -1,0 +1,1 @@
+menu.add_slider_int("FOV", 0, 180)

@@ -1,0 +1,2 @@
+client.unload_script("Autobuy")
+client.unload_script("Watermark")

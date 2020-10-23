@@ -1,0 +1,5 @@
+Hold - 0
+Toggle- 1
+
+Lua:
+local type = menu.get_key_bind_mode(key_binds.body_aim)

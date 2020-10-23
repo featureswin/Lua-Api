@@ -1,0 +1,1 @@
+local ipt = globals.get_intervalpertick()

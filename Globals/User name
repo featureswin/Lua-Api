@@ -1,0 +1,1 @@
+local user = globals.get_username()

@@ -1,0 +1,3 @@
+if menu.get_key_bind_state(key_binds.body_aim) then
+-- ...
+end

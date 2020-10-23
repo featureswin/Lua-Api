@@ -1,0 +1,1 @@
+local framerate = globals.get_framerate()

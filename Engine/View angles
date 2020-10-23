@@ -1,0 +1,5 @@
+local function cm()
+  local viewangles = engine.get_view_angles()
+end
+
+client.add_callback("on_createmove", cm)

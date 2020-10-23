@@ -1,0 +1,3 @@
+if menu.get_int("Flags") == 1 then
+-- ...
+end

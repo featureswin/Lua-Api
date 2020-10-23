@@ -1,0 +1,18 @@
+Lua:
+local function hurt(event)
+-- some code
+end
+
+events.register_event("player_hurt", hurt)
+
+Some extra information :
+game_event:get_bool
+game_event:get_int
+game_event:get_float
+game_event:get_string
+game_event:set_bool
+game_event:set_int
+game_event:set_float
+game_event:set_string
+
+All csgo events you can find there: https://wiki.alliedmods.net/Counter-Strike:_Global_Offensive_Events

@@ -1,0 +1,1 @@
+local address = globals.get_server_address()
