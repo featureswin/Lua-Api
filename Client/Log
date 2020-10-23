@@ -1,0 +1,2 @@
+client.load_script("Autobuy")
+client.log("i loaded script!")
