@@ -1,1 +1,0 @@
-local can_drop = console.get_bool("mp_drop_knife_enable")
