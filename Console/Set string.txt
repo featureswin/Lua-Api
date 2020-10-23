@@ -1,1 +1,0 @@
-console.set_string("name", "noname")
