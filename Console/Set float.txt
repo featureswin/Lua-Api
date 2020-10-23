@@ -1,1 +1,0 @@
-console.set_float("zoom_sensitivity_ratio_mouse", 0.0)
