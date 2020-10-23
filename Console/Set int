@@ -1,0 +1,1 @@
+console.set_int("custom_var", 2)
