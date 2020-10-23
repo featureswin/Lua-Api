@@ -1,1 +1,0 @@
-local lc_name = console.get_string("name")
