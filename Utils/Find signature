@@ -1,4 +1,4 @@
-local ffi = require("ffi")
+local ffi = require("ffi") (the require ffi, don't its working.)
 
 ffi.cdef[[
 typedef int(__fastcall* clantag_t)(const char*, const char*);
